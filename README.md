@@ -46,17 +46,22 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/egrillet89/egrillet89/output/snake.svg" alt="Snake animation" />
-
-###
+<br clear="both">
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/egrillet89/count.svg?"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=egrillet89&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=egrillet89&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<div align="left">
+<img src="https://raw.githubusercontent.com/egrillet89/egrillet89/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="center">
   <a href="https://www.linkedin.com/in/eleazar-grillet-06272112a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -76,11 +81,8 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=egrillet89&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=egrillet89&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://profile-counter.glitch.me/egrillet89/count.svg?"  />
 </div>
 
 ###

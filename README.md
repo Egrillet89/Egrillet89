@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently coursing a fullstack developer program<br>🎯 Goals: Be the best developer</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm a Junior FullStack and Mobile Developer<br>🎯 Goals: Be the best developer</p>
 
 ###
 

@@ -105,7 +105,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/egrillet89/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=egrillet89&color=blueviolet&style=flat-square" alt="Visitas" />
 </div>
 
 ###
